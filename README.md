@@ -1,1 +1,5 @@
-# react_fitness_app
+# React Fitness Application
+
+![React Fitness Application](https://i.ibb.co/Yt9spGc/image.png)
+
+Health is Wealth
